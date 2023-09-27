@@ -68,6 +68,7 @@ html {
     position: relative;
     width: 100%;
     height: 43vh;
+    padding-top: 15px;
 }
 
 .grid__column-11-8 {
